@@ -43,6 +43,6 @@ numbers = [1, 2, 3, 4, 5]
 
 * class ClassName():
       ...
-      def method():
+      * def method():
             ...
 
