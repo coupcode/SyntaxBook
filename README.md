@@ -24,6 +24,8 @@
 
 # Variables 
 * name = "kofi"
+* age = 20
+  
 
 # Dictionaries
 
