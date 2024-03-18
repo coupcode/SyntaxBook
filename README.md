@@ -41,7 +41,7 @@ numbers = [1, 2, 3, 4, 5]
 
 # Method
 
-class ClassName():
+* class ClassName():
       ...
       def method():
             ...
