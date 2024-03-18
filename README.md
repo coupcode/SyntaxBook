@@ -1,6 +1,6 @@
 # Built-in Functions for Input/Output:
-a) print()
-b) input()
+* a) print()
+* b) input()
 c) open()
 d) close()
 e) read()
