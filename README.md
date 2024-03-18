@@ -1,23 +1,23 @@
 # Built-in Functions for Input/Output:
-* a) print()
-* b) input()
-* c) open()
-* d) close()
-* e) read()
-* f) write()
-* g) seek()
-* h) flush()
+*  print()
+*  input()
+*  open()
+*  close()
+*  read()
+* write()
+* seek()
+*  flush()
 
 # Loops
-a) while:
+* while:
       ...
-b) for i in range(5):
+* for i in range(5):
       ...
 
 # Function
-a) def function_name():
+* def function_name():
     ...
 
 # Classes
-a) class ClassName():
+* class ClassName():
         ....
