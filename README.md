@@ -1,12 +1,12 @@
 # Built-in Functions for Input/Output:
 * a) print()
 * b) input()
-c) open()
-d) close()
-e) read()
-f) write()
-g) seek()
-h) flush()
+* c) open()
+* d) close()
+* e) read()
+* f) write()
+* g) seek()
+* h) flush()
 
 # Loops
 a) while:
